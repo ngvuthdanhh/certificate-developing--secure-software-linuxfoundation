@@ -67,7 +67,7 @@ The program teaches learners how to **design, develop, test, deploy, and maintai
 ---
 
 ## 📜 Certificate
-🎓 [Certificate of Completion – Developing Secure Software (LFD121)](./cert/Developing%20Secure%20Software%20(LFD121).pdf)  
+🎓 [Certificate of Completion – Developing Secure Software (LFD121)](./cert/Developing%20Secure%20Software%20%28%20LFD121%20%29.pdf) 
 
 ---
 
